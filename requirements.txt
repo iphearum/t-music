@@ -3,3 +3,4 @@ python-telegram-bot
 yt-dlp
 nest_asyncio
 python-dotenv
+requests
