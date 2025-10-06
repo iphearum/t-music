@@ -12,7 +12,7 @@ yt_dlp.YoutubeDL({'ffmpeg_location': '/usr/bin/ffmpeg'})
 
 warnings.filterwarnings("ignore", category=RuntimeWarning)
 
-BOT_TOKEN = '...'
+BOT_TOKEN = '7726886049:AAGfpWA4i8tF2iHV5RYfA5scuHh02LkjtF8'
 CACHE_FILE = './cache.json'
 
 
