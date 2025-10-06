@@ -3,3 +3,7 @@
 __pycache__/
 *.ipynb
 *.session
+*.mp3
+*.wav
+*.m4a
+*.flac
